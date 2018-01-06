@@ -11,7 +11,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "#ffffff",
-    "navigationBarTitleText": "零食商贩",
+    "navigationBarTitleText": "零食",
     "navigationBarBackgroundColor": "#AB956D",
     "backgroundColor": "#eeeeee",
     "enablePullDownRefresh": true
