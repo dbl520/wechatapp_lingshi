@@ -25,6 +25,5 @@
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/6.jpg) 
 
 ## 运行
-需要安装有微信开发者工具。
 把项目下载到本地。
 在微信开发者工具中打开该项目则可预览。
